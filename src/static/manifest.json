@@ -1,7 +1,7 @@
 {
-  "name": "Ziro App",
-  "short_name": "ZiroApp",
-  "description": "An ultra opinionated web app development framework.",
+  "name": "Ziro CLI",
+  "short_name": "ZiroCli",
+  "description": "Documentation for Ziro CLI project",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ff3333",
