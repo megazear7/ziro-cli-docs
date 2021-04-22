@@ -1,6 +1,6 @@
 {
-  "name": "Ziro CLI",
-  "short_name": "ZiroCli",
+  "name": "Ziro Cli",
+  "short_name": "Ziro Cli",
   "description": "Documentation for Ziro CLI project",
   "start_url": "/",
   "display": "standalone",
